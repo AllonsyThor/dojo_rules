@@ -1,5 +1,7 @@
 I love Ruby
 
+##Deadly Skills
 * Ruby
 * JavaScript
-* rebase
+* Swift
+* Killing history using git rebase
